@@ -42,25 +42,6 @@ EcoTrade Hub revolutionizes how businesses handle sustainable materials by provi
 - **Heroku** - Cloud platform for deployment
 - **Git & GitHub** - Version control
 
-## 📱 Screenshots
-
-### Modern Home Page
-![Home Page](./client/src/assets/images/broken-pallets-1.png)
-
-### User Authentication
-![Login](./client/src/assets/images/broken-pallets-2.png)
-![Signup](./client/src/assets/images/broken-pallets-3.png)
-
-### Seller Dashboard
-![Seller Dashboard](./client/src/assets/images/broken-pallets-4.png)
-![Create Offer](./client/src/assets/images/broken-pallets-5.png)
-![My Offers](./client/src/assets/images/broken-pallets-6.png)
-
-### Recycler Interface
-![Browse Offers](./client/src/assets/images/broken-pallets-7.png)
-![Purchase History](./client/src/assets/images/broken-pallets-8.png)
-![Material Details](./client/src/assets/images/broken-pallets-9.png)
-
 ## 🎯 User Stories
 
 ### For Sellers (Companies)
@@ -138,7 +119,6 @@ EcoTrade Hub promotes the circular economy by:
 ### Contact Information
 - **GitHub**: [srirambandlamudi](https://github.com/srirambandlamudi)
 - **LinkedIn**: [sriram-bandlamudi](https://www.linkedin.com/in/sriram-bandlamudi)
-- **Email**: sriram.bandlamudi@example.com
 
 ## 📄 License
 
