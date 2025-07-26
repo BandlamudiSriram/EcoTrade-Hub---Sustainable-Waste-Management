@@ -15,9 +15,6 @@ EcoTrade Hub revolutionizes how businesses handle sustainable materials by provi
 - **Material Tracking** - Comprehensive inventory and transaction management
 - **Circular Economy Focus** - Promoting sustainable business practices
 
-## 🚀 Live Demo
-
-**Coming Soon** - The application will be deployed and accessible online.
 
 ## 🛠️ Technologies Used
 
